@@ -1,7 +1,7 @@
 # Status-Bot-ZBRP
 Made by blub#9999 for 
-> Zwanenburg Roleplay
-> Kronenburg Roleplay
+- Zwanenburg Roleplay
+- Kronenburg Roleplay
 
 
 # COMMANDS:
@@ -24,3 +24,6 @@ MESSAGE_ID - message id of previous update to edit (not required)
 LOG_CHANNEL - channel to log status changes
 ```
 
+# CHEAP AND GOOD GAME HOSTING
+If you need good and cheap hosting https://dutchis.net
+Use code **GSBRT10** for 10% off your first server ;)
