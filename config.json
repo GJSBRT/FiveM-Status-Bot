@@ -1,0 +1,11 @@
+{
+    "URL_SERVER": "http://135.125.241.215:30120",
+    "SERVER_NAME": "Zwanenburg",
+    "SERVER_LOGO": "https://cdn.discordapp.com/attachments/809129945648857108/815401578093740042/LogoZwanenBurgRP.png",
+    "LOG_LEVEL": "2",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "Bot Token",
+    "CHANNEL_ID": "807436172367626251",
+    "MESSAGE_ID": "832673031901937705",
+    "LOG_CHANNEL": "803012150855467018"
+  }
